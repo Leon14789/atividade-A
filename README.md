@@ -9,4 +9,4 @@ Orientador: Daniel Oatha
 [Link Para Verificar o SQL](https://github.com/Leon14789/atividade-A/blob/master/SQL.txt)
 
 
-![Atividade-A](Modelo.png)
+![Atividade-A](Modelo.PNG)
